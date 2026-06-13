@@ -37,7 +37,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ PIGS - Cluster Bombs
+⭐ PIGS - Cluster Glide Bombs
 
 - GBM‑500LR
 
