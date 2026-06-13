@@ -65,7 +65,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ [LONG RIFLE] — Standoff / Ballistic 
+⭐ [LONG RIFLE] — Standoff / Ballistic Missiles
 
 - Tusko‑B
 - Piledriver TBM
