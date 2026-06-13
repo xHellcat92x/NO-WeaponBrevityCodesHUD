@@ -15,8 +15,8 @@ Brevity Codes:
 
 ⭐ [FOX-3] — BVR Air to Air Missiles
 
-- AAM-29
-- AAM-36
+- AAM-29 (Scythe)
+- AAM-36 (Scimitar)
 
 ==============================================================
 
@@ -60,8 +60,8 @@ Brevity Codes:
 
 ⭐ [SHOTGUN] — Laser‑Guided Rockets
 
-- AGR‑18 Lynchpin
-- AGR‑24 Kingpin
+- AGR‑18 (Lynchpin)
+- AGR‑24 (Kingpin)
 
 ==============================================================
 
