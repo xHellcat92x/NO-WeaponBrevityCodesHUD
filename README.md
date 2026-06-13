@@ -23,7 +23,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ PIG - Cluster Mnitions 
+⭐ PIGS - Cluster Mnitions 
 
 - GBM‑500LR
 
