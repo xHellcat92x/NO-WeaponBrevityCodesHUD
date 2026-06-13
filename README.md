@@ -25,7 +25,7 @@ Brevity Codes:
 
 ⭐ PIG - Cluster Mnitions 
 
-GBM‑500LR
+- GBM‑500LR
 
 ==============================================================
 
@@ -40,7 +40,7 @@ GBM‑500LR
 
 ⭐ CYCLOPS - Scouting Missiles
 
-Eyeball Mk.II
+- Eyeball Mk.II
 
 ==============================================================
 
@@ -59,7 +59,8 @@ Eyeball Mk.II
 ==============================================================
 
 ⭐ Greyhound - Cruise Missiles targeting buildings
-ALM‑C450
+
+- ALM‑C450
 
 ==============================================================
 
