@@ -53,7 +53,7 @@ Brevity Codes:
 
 ⭐ LONG RIFLE — Standoff / Ballistic 
 
-- Tusko‑B,
+- Tusko‑B
 - Piledriver TBM
 
 ==============================================================
