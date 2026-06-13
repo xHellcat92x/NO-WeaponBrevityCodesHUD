@@ -1,7 +1,9 @@
 # NO-WeaponBrevityCodesHUD
 Mod for Nuclear Option - Displays selected weapons and brevity codes on the HUD.
 
-Brevity codes can be disabled in the configuration manager for players who just want the selected weapon displayed and not needing the brevity codes.
+Has Configuration manager optons for font size, and offsets.
+
+Brevity codes can be disabled in the Configuration Manager for players who just want the selected weapon displayed and not needing the brevity codes.
 
 Brevity Codes:
 ==============================================================
