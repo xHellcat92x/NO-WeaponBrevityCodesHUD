@@ -5,7 +5,7 @@ Mod for Nuclear Option - Displays selected weapon and brevity code on the HUD.
 Brevity Codes:
 ==============================================================
 
-⭐ FOX-2 — IR Air to Air Missiles
+⭐ [FOX-2] — IR Air to Air Missiles
 
 - IRM-S1
 - IRM-S2
@@ -13,7 +13,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ FOX-3 — BVR Air to Air Missiles
+⭐ [FOX-3] — BVR Air to Air Missiles
 
 - AAM-29
 - AAM-34
