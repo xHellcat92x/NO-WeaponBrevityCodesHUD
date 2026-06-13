@@ -16,7 +16,7 @@ Brevity Codes:
 ⭐ [FOX-3] — BVR Air to Air Missiles
 
 - AAM-29
-- AAM-34
+- AAM-36
 
 ==============================================================
 
