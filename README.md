@@ -18,8 +18,8 @@ Brevity Codes:
 
 ⭐ BATS - Gide Bombs
 
-- PAB‑80LR,
-- PAB‑250LR,
+- PAB‑80LR
+- PAB‑250LR
 
 ==============================================================
 
@@ -46,7 +46,7 @@ Brevity Codes:
 
 ⭐ SHOTGUN — Laser‑Guided Rockets
 
-- AGR‑18 Lynchpin,
+- AGR‑18 Lynchpin
 - AGR‑24 Kingpin
 
 ==============================================================
@@ -66,16 +66,16 @@ Brevity Codes:
 
 ⭐ Bruiser - Cruise Missiles/missile targeting ships
 
-- AGM-99,
+- AGM-99
 - ASHM-300
 
 ==============================================================
 
 ⭐  RED OCTOBER — Nuclear Weapons
 
-- GPO‑N (1.5 kt),
-- GPO‑N (250 kt),
-- Piledriver TBM (20 kt),
+- GPO‑N (1.5 kt)
+- GPO‑N (250 kt)
+- Piledriver TBM (20 kt)
 - ALND‑4 (20 kt)
 
 ============================================================== 
