@@ -5,7 +5,7 @@ Has Configuration manager optons for font size, and offsets.
 
 Brevity codes can be disabled in the Configuration Manager for players who just want the selected weapon displayed and not needing the brevity codes.
 
-Brevity Codes:
+Brevity Codes List:
 ==============================================================
 
 ⭐ [FOX-2] — IR Air to Air Missiles
