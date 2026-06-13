@@ -20,7 +20,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ PAVEWAY — Guided Bombs
+⭐ [PAVEWAY] — Guided Bombs
 
 - PAB‑250
 - PAB‑125
@@ -30,20 +30,20 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ BATS - Glide Bombs
+⭐ [BATS] - Glide Bombs
 
 - PAB‑80LR
 - PAB‑250LR
 
 ==============================================================
 
-⭐ PIGS - Cluster Glide Bombs
+⭐ [PIGS] - Cluster Glide Bombs
 
 - GBM‑500LR
 
 ==============================================================
 
-⭐ RIFLE — Precision Missiles
+⭐ [RIFLE] — Precision Missiles
 
 - AGM‑48
 - AGM‑68
@@ -52,13 +52,13 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ CYCLOPS - Scouting Missiles
+⭐ [CYCLOPS] - Scouting Missiles
 
 - Eyeball Mk.II
 
 ==============================================================
 
-⭐ SHOTGUN — Laser‑Guided Rockets
+⭐ [SHOTGUN] — Laser‑Guided Rockets
 
 - AGR‑18 Lynchpin
 - AGR‑24 Kingpin
@@ -72,20 +72,20 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ GREYHOUND - Cruise Missiles
+⭐ [GREYHOUND] - Cruise Missiles
 
 - ALM‑C450
 
 ==============================================================
 
-⭐ BRUISER - Anti-Ship Missles
+⭐ [BRUISER] - Anti-Ship Missles
 
 - AGM-99
 - ASHM-300
 
 ==============================================================
 
-⭐  RED OCTOBER — Nuclear Weapons
+⭐  [RED OCTOBER] — Nuclear Weapons
 
 - GPO‑N (1.5 kt)
 - GPO‑N (250 kt)
