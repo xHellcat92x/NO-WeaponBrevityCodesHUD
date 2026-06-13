@@ -25,7 +25,7 @@ Brevity Codes:
 - PAB‑250
 - PAB‑125
 - GPO‑500
-- GPO‑2P Auger
+- GPO‑2P (Auger)
 - Demolition Bomb
 
 ==============================================================
