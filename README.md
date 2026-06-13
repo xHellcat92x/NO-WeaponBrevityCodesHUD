@@ -16,7 +16,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ BATS - Gide Bombs
+⭐ BATS - Glide Bombs
 
 - PAB‑80LR
 - PAB‑250LR
