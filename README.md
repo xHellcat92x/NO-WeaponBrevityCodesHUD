@@ -43,7 +43,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ [RIFLE] — Precision Missiles
+⭐ [RIFLE] — Optical Guided Missiles
 
 - AGM‑48
 - AGM‑68
