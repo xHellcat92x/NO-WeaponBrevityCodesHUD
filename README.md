@@ -8,11 +8,11 @@ Brevity Codes:
 
 ⭐ PAVEWAY — Guided Bombs
 
--PAB‑250,
--PAB‑125,
--GPO‑500,
--GPO‑2P Auger
--Demolition Bomb,
+- PAB‑250,
+- PAB‑125,
+- GPO‑500,
+- GPO‑2P Auger
+- Demolition Bomb,
 
 ==============================================================
 
