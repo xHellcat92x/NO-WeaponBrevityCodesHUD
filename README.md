@@ -78,14 +78,14 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ [BRUISER] - Anti-Ship Missles
+⭐ [BRUISER] - Anti-Ship Missiles
 
 - AGM-99
 - ASHM-300
 
 ==============================================================
 
-⭐  [RED OCTOBER] — Nuclear Weapons
+⭐  [RED OCTOBER] — Nuclear Warhead Weapons
 
 - GPO‑N (1.5 kt)
 - GPO‑N (250 kt)
