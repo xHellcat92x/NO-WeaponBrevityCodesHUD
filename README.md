@@ -3,6 +3,20 @@ Mod for Nuclear Option - Displays selected weapon and brevity code on the HUD.
 
 
 Brevity Codes:
+==============================================================
+
+⭐ FOX-2 — IR Air to Air Missiles
+
+- IRM-S1
+- IRM-S2
+- MMS-S3
+
+==============================================================
+
+⭐ FOX-3 - BVR Air to Air Missiles
+
+- AAM-29
+- AAM-34
 
 ==============================================================
 
@@ -64,7 +78,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ Bruiser - Cruise Missiles/missile targeting ships
+⭐ Bruiser - Anti-Ship Missles
 
 - AGM-99
 - ASHM-300
