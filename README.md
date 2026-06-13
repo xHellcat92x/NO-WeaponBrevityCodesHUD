@@ -13,7 +13,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ [FOX-3] — BVR Air to Air Missiles
+⭐ [FOX-3] — ARH Air to Air Missiles
 
 - AAM-29 (Scythe)
 - AAM-36 (Scimitar)
