@@ -58,7 +58,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ Greyhound - Cruise Missiles targeting buildings
+⭐ Greyhound - Cruise Missiles
 
 - ALM‑C450
 
