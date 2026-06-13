@@ -1,5 +1,5 @@
 # NO-WeaponBrevityCodesHUD
-Mod for Nuclear Option - Displays selected weapon and brevity code on the HUD.
+Mod for Nuclear Option - Displays selected weapons and brevity codes on the HUD.
 
 
 Brevity Codes:
