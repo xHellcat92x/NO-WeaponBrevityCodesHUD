@@ -37,7 +37,7 @@ Brevity Codes:
 
 ==============================================================
 
-⭐ PIGS - Cluster Mnitions 
+⭐ PIGS - Cluster Munitions 
 
 - GBM‑500LR
 
