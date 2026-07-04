@@ -55,7 +55,7 @@ Brevity Codes List:
 
 ==============================================================
 
-⭐ [CYCLOPS] - Scouting Missiles
+⭐ [CYCLOPS] - Datalink Scouting Missiles
 
 - Eyeball Mk.II
 
@@ -68,9 +68,14 @@ Brevity Codes List:
 
 ==============================================================
 
-⭐ [LONG RIFLE] — Standoff / Ballistic Missiles
+⭐ [LONG RIFLE] — Standoff Missiles
 
 - Tusko‑B
+
+==============================================================
+
+⭐ [COMET] — Balistic Missles
+
 - Piledriver TBM
 
 ==============================================================
