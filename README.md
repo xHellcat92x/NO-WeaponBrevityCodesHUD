@@ -80,8 +80,6 @@ Brevity Codes List:
 
 ==============================================================
 
-- ALM‑C450
-
 ⭐ [BRUISER / GREYHOUND] - Anti-Ship Missiles / Cruise Missiles
 
 - ALM‑C450
