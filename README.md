@@ -68,7 +68,7 @@ Brevity Codes List:
 
 ==============================================================
 
-⭐ [LONG RIFLE / BRUISER] — Stand-off Missiles
+⭐ [LONG RIFLE / BRUISER] — Stand-off Missiles (Target Specific)
 
 - Tusko‑B
 
