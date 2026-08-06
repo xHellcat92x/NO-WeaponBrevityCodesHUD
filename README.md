@@ -99,3 +99,8 @@ Brevity Codes List:
 ⭐  [RED METEOR] — Nuclear Warhead Ballistic Missiles
 
 - Piledriver TBM (20 kt)
+
+============================================================== 
+
+⭐  [BOOTS] — Infantry Squad
+
