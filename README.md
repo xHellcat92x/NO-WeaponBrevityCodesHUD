@@ -1,7 +1,7 @@
 # NO-WeaponBrevityCodesHUD
 Mod for Nuclear Option - Displays selected weapons and brevity codes on the HUD.
 
-Has Configuration manager optons for font size, and offsets.
+Has Configuration manager options for font size, and offsets.
 
 Brevity codes can be disabled in the Configuration Manager for players who just want the selected weapon displayed and not needing the brevity codes.
 
@@ -55,7 +55,7 @@ Brevity Codes List:
 
 ==============================================================
 
-⭐ [CYCLOPS] - Datalink Scouting Missiles
+⭐ [CYCLOPS] - Data-link Scouting Missiles
 
 - Eyeball Mk.II
 
@@ -68,19 +68,19 @@ Brevity Codes List:
 
 ==============================================================
 
-⭐ [LONG RIFLE] — Standoff Missiles
+⭐ [LONG RIFLE / BRUISER] — Stand-off Missiles
 
 - Tusko‑B
 
 ==============================================================
 
-⭐ [COMET] — Balistic Missles
+⭐ [COMET] — Conventional Ballistic Missiles
 
 - Piledriver TBM
 
 ==============================================================
 
-⭐ [BRUISER / GREYHOUND] - Anti-Ship Missiles / Cruise Missiles
+⭐ [BRUISER / GREYHOUND] - Anti-Ship Missiles / Cruise Missiles (Target Dependant)
 
 - ALM‑C450
 - AGM-99
@@ -92,7 +92,10 @@ Brevity Codes List:
 
 - GPO‑N (1.5 kt)
 - GPO‑N (250 kt)
-- Piledriver TBM (20 kt)
 - ALND‑4 (20 kt)
 
 ============================================================== 
+
+⭐  [RED METEOR] — Nuclear Warhead Ballistic Missiles
+
+- Piledriver TBM (20 kt)
